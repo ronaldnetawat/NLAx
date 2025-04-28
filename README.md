@@ -1,3 +1,3 @@
-# Numerical Linear Algebra Applications
+# Numerical Methods Applications
 
 This repository contains files that implement several numerical linear algebra (and other numerical methods) concepts.
